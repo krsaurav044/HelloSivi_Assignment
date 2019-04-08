@@ -17,6 +17,7 @@ Approach:
     2)Then it resize it into 200*200 pixels.
     3)Then i used Kmean Clustring for identifying dominant colours and eliminating neutral colours.
     4)Then i predict the input image after fitting.
+    
 Repositories is structured as follows:
     1)main.py: It contain all the codes for above model.
     2)result: It contain resulting images of test images after applying apencv.
