@@ -8,4 +8,4 @@ Approach:
 Repositories is structured as follows:
     1)main.py: It contain all the codes for above model.
     2)result: It contain resulting images of test images after applying apencv.
-    3)test: It contain test images.
+    3)test: It contain test images
